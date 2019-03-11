@@ -1,0 +1,965 @@
+title,post,author,upvotes
+"Tech Support and Troubleshooting - December 17, 2018","Welcome the /r/audioengineering Tech Support and Troubleshooting Thread.  We kindly ask that all tech support questions and basic troubleshooting questions (how do I hook up 'a' to 'b'?, headphones vs mons, etc) go here.  If you see posts that belong here, please report them to help us get to them in a timely manner.  Thank you!
+
+   Daily Threads:
+
+
+* [Monday - Gear Recommendations Sticky Thread](http://www.reddit.com/r/audioengineering/search?q=title%3Arecommendation+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Monday - Tech Support and Troubleshooting Sticky Thread](http://www.reddit.com/r/audioengineering/search?q=title%3ASupport+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Tuesday - Tips &amp; Tricks](http://www.reddit.com/r/audioengineering/search?q=title%3A%22tuesdays%22+AND+%28author%3Aautomoderator+OR+author%3Ajaymz168%29&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Friday - How did they do that?](http://www.reddit.com/r/audioengineering/search?q=title%3AFriday+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+",t2_6l4z3,8
+"Gear Recommendation (What Should I Buy?) Thread - December 17, 2018","Welcome to our weekly Gear Recommendation Thread where you can ask /r/audioengineering for recommendations on smart purchases.
+
+Low-cost gear and purchasing recommendation requests have become common in the AE subreddit. There is also great repetition of models asked about and advised for use. This weekly post is intended to assist in centralizing and answering requests and recommendations.  If you see posts that belong here, please report them to help us get to them in a timely manner.  Thank you!
+
+Daily Threads:
+
+
+* [Monday - Gear Recommendations Sticky Thread](http://www.reddit.com/r/audioengineering/search?q=title%3Arecommendation+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Monday - Tech Support and Troubleshooting Sticky Thread](http://www.reddit.com/r/audioengineering/search?q=title%3ASupport+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Tuesday - Tips &amp; Tricks](http://www.reddit.com/r/audioengineering/search?q=title%3A%22tuesdays%22+AND+%28author%3Aautomoderator+OR+author%3Ajaymz168%29&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Friday - How did they do that?](http://www.reddit.com/r/audioengineering/search?q=title%3AFriday+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+",t2_6l4z3,6
+Is a ThunderBolt audio interface worth it for a small home studio?,"Right now I record through a crappy AudioBox USB from many years ago and feels it’s time to upgrade.  
+
+I play a Fender Strat and have a Moog mono synth, and Elektron’s Digitone, Digitakt, and Analog Four. This leaves me needing preferably 6 inputs, as I’ll probably route one Elektron into the other at a minimum. I’d also like a bit of room for expansion. So let’s say max even in a few years I’ll need 12 inputs even if I need a secondary preamp. Is ThunderBolt worth it or should I save some cash and just go for USB? I’m looking for an improvement in sound quality (better preamps) and also a reduction in noise, which could be completely my fault and not the AudioBox USB’s, I’ve still got a few things to try and get rid of the noise. 
+
+My biggest pet peeve though is the latency between playback and input. So when I want to jam over something I recorded I have to put the mixer in the center and everything has a huge delay on it which is terrible for my productivity and the volumes are low overall hearing wise. The direct to DAW input is very enticing for me but I still do not know if it is worth the $1,000. Any help is appreciated. ",t2_24wuqxkk,31
+What’s the difference b/w dithering and truncation?,"It’s my basic understanding that dithering is adding low, inaudible noises to cut off distortion and that it’s the final step to the mastering process while truncation is simply cutting off bit resolutions which in turn creates quantization errors. Am I right??",t2_y139dwj,9
+Getting wide auto-panning to sound right/auto-panning tricks &amp; tips,"I’ve noticed that a lot of songs I really enjoy use a good bit of auto-panning (Dave Fridmann seems to really like using it).  The sounds tend to be shakers, tambourines, or higher-pitched dreamy sounding synths.
+
+I tend to have a hard time making auto-panned sounds fit in the mix well. The element easily starts to seem too on top of the mix, one-dimensional and obnoxious.
+
+I have tried widening the sound before and after auto-panning.  I’ve also tried using reverb after the auto-panning, but I still am not getting the sound I’m looking for in most cases.
+
+Do you have any auto-panning tips or tricks? How do you get it to add movement and excitement in your mixes without sounding overbearing?",t2_4anq6,4
+How do you separate multi-track's onto different desk channels?,"Sorry if this is the wrong sub or a really stupid question but;
+
+Planning to buy some equipment and set up a home studio (not really a studio) to get a grips with the really in-depth mixing and EQ stuff; obviously without any live input this will rely on multi-tracks; I dont understand how it can go from the main file; to being patched onto different desk channels; surely the desk still sees it as ONE input as it will just be a signal from a laptop?? is it software that can separate it up so the desk sees it as different inputs? 
+
+&amp;#x200B;
+
+Again sorry if it's a very obvious question; We are mainly based around live sound and don't really do much software/pre-recorded work.
+
+&amp;#x200B;
+
+Thanks in advance",t2_ls0mu,2
+Static hiss coming from laptop when using headphones,"I have a laptop that I can hear noise from when there should be silence. I can deal with it when listening to music or watching videos, but it's kind of annoying when producing or mixing. I have an interface that I can plug in and that solves it, but I don't like to carry it around all the time. I was wondering if a usb headphone amp (like [this](https://www.amazon.com/Fiio-Portable-Headphone-Amplifier-DAC/dp/B0189EVGAG/ref=mp_s_a_1_16?ie=UTF8&amp;qid=1545252662&amp;sr=8-16&amp;pi=AC_SX236_SY340_FMwebp_QL65&amp;keywords=fiio+headphone+amp)) would likely solve the issue. The noise is not always there, but any time I have a video/audio application running it will be there even if it's not in play mode. The second I close those programs it's gone.",t2_ycnkbgu,2
+Suggestions for Isolating Small Studio Room on a Budget?,"Hi all,
+
+Opened up my new mixing room here in Brooklyn and I'm trying to figure out the cheapest, most efficient way to isolate the noise in my room and prevent it from hitting my neighbors. I'm in a multi-faceted studio building with many tenants, and I have 2 neighbors on either side of me. Turns out the walls do not have any insulation installed between them; only 2 panels of sheetrock against studs. 
+
+My room is 115 SF. It's small, but it's enough for what I do. So, I don't really have the space to build a room-within-room setup. I've already been lectured about how having more mass will be the best solution, but I just don't have that kind of space. I'm looking for a solution that will at least dampen my output to the neighbors.
+
+P.S. I considered posting to r/acoustics but their community is a lot smaller than this one, so I figured I'd give it a shot here!",t2_66xu4,2
+Confusion about automation in general,"Hey guys,
+
+I feel like a lot of famous audio engineering say that good automation is going to make the biggest difference between an amateur mix and a professional one. I can see why people say this, but I'm still not sure what exactly I'm supposed to be automating. What am I supposed to be trying to achieve with automation?
+
+Thanks!",t2_16rstg,50
+Gold Star Studios Chambers (isolated Ronettes recording),"I'm a fanatic for that old Gold Star/Phil Spector sound, and I just heard this for the first time.  The claps at the beginning and Ronnie's opening ""Woah-oh""s might be the cleanest isolated example of the sound and long decay of the chambers at Gold Star.  (The tails overlap, but it sounds like it might be at least a good 3 seconds.)
+
+(Edit: I got a rough estimate from one of the long claps and counting/converting the BPM, and it's around 3.1 seconds, at least on a cell phone speaker)
+
+https://youtu.be/zM4wLjD6Clg",t2_biztsi3,2
+Best Engineered Albums of 2018?,"I remember a thread like this last year but haven’t seen one yet! A couple to start:
+
+Jon Hopkins - Singularity 
+
+Shygirl - Cruel Practice 
+
+",t2_htzfa,46
+Question about level clipping while mixing drums?,"Tried this in another sub but got no response, please let me know if this is more appropriate in another sub:
+
+Firstly, it it's worth mentioning, I'm using reaper on Windows 10.
+
+Wondering if anyone else has this issue while mixing, specifically with drums. First off, I make sure I record my levels peaking ~  -6db. I take time to make sure my source is the best it can be before it goes into the DAW. When I'm mixing, I watch my levels and main fader to make sure I'm not peaking above -12db, and yet...my drums can't stop clipping!
+
+The only effects I'm adding on my 4 tracks are EQ, light compression and light reverb. I don't hear clipping, they sound good, but I have to either turn down my main fader like 15-25% to avoid seeing the levels clip or turn down the individual faders a lot.
+
+The other problem I have is when I do have a good drum sound, when I slowly begin to ease my other instruments in, the drums become buried in the mix and it makes it feel like all the processing I did is never heard. If I do hear the drums, I have to keep my instruments down, but then that makes the mix sound sort of lop sided and weak.
+
+I also use high pass filters on my guitars/vocals and generally try to remove any unnecessary frequencies, but I'm still learning at using a fully parametric (visual) EQ effectively.
+
+Appreciate any suggestions or input. Thanks!",t2_4o9pk38,1
+DIY dsp like soundgrid?,"The idea of having a dedicated server to handle my plug ins seems really great, but soundgrid is a commitment that I’m not ready to make. I’m curious if it’s possible to run a rig similar to this, where my plug ins can be processed on another device that’s linked to my host computer via Ethernet? I’m sure it’s a long shot, but if it’s possible I’m down for the challenge. ",t2_1cm6qvc1,1
+Avantone CV-12 x Kaotica Eyeball,"Hey guys, 
+
+Just curious if anyone has used these two together to record vocals. If so, have any examples of what it sounds like? I am thinking of getting these two to record an artist I work with. He makes hip hop/rap. 
+
+Thanks in advance! ",t2_1qe2t9c6,1
+New door for home studio?....,Ive already treated the room acoustically now the only thing left to tackle is the door. It’s just a standard hollow door at the moment and I want to replace it with a nice solid door. What is my best bet for this? By the way I have seen studio doors being sold but they’re like $2500 cheapest. ,t2_y5hal,0
+Some questions before I start mixing my band's somewhat dense post-rock-ish EP," I'm about to start mixing my new band\\'s new music and thought I\\'d spew some questions to hopefully guide me well. I've always mixed my bands, and always thought they turned out pretty decent, but could be better.
+
+Any general tips on semi-dense music, containing sections with 3 reverb/delay-laden guitars, all double-mic\\'d (an sm57 and a fathead)...sometimes a more rhythmic part along with a lead, sometimes just 2 or 3 riffy/arpeggio'd parts, sometimes two rhythmic parts with kind of alternating high notes so the rhythm(s) contain the leads. Basically tips on parsing things like that and placing them well and all that.
+
+More specific questions:
+
+* I see often people saying to mix in mono to place everything in the right spot, frequency-wise. That makes sense, but I feel like multiple guitar parts REQUIRE panning. I mean you don\\'t (often) cut frequencies in one guitar to make room for another, do you? Or do you? And either way, is mixing in mono to start with a universally agreed upon method or are there downsides? Should I do it with all the non-guitar instruments, and carve out a spot for ALL the guitars to live, then pan to get the guitars sounding good? I've never tried starting in mono.
+* We\\'re using programmed drums with superior drummer. I think I've got them sounding PRETTY natural by sending them all to the same reverb, and with superior drummer\\'s humanizing stuff, but any other tips for making unreal drums sound real (other than the programming itself)?
+* I feel like in more emotional, less...steady and \\""rocking\\"" music, the kick should be more felt than heard. Is this a common belief? Whenever I can hear the click really clearly in post-rock music, it feels weird. Am I alone in that? Any tips for mixing kick?
+* If you were to approach mixing a band like Explosions in the Sky but with vocals, what would you do with the vocals to still make them clear while also not detracting too much from the music. I've seen bands go to both extremes...like Appleseed Cast had an album where the vocals were heavily effected. And Foxing had an album where the vocals were up front and clear. Maybe somewhere in between? What do you think? My bands have always suffered from being \\""music for musicians\\"" and I\\'m trying to change that with this one by making it a little more accessible in the mix. To me that means clearer and more up front vocals, but I do want the musical subtleties and stuff to come through, since that really is our focus.
+
+I don\\'t know if this breaks rule 4, hopefully not since I asked a lot of specific questions, but here\\'s a rough mix of one of our songs to give an idea of our style. Any general thoughts on what you\\'d do different would be great. I have plenty of issues with this mix...sibilance, drums, and just a bunch of tweaks I\\'d make, but would love to hear your thoughts...as I think a lot of mixing advice is geared towards making like...ROCK music and I don\\'t feel like that\\'s really what we are.
+
+[https://shapesinthewater.bandcamp.com/track/gold](https://shapesinthewater.bandcamp.com/track/gold)
+
+Thanks!",t2_4alf1,0
+This Pantheon style Cathedral allows for a 6 second reverb which makes singing sound even more beautiful.,https://v.redd.it/sku6jb5bbx421,t2_a8kyi,166
+Missing 10k+ in my mix?,"I was comparing a mix of mine to a commercial release by LUFS-matching the two tracks and then comparing key frequency bands. I found that all frequency bands were within +/- 2db of the commercial release except for the 10k+ range which was much quieter in my mix than in the commercial release.
+
+Are there any very common reasons for this to occur?
+
+&amp;#x200B;
+
+My best guesses are: 
+
+1. The commercial release had somewhat more electronic instrumentation. Would the overtones of these instruments reach higher than other non-electronic instruments?
+2. The commercial release was a lossy format while my mix was a .wav file. Could the lossy format add information (distortion?) in the 10k+ range?
+3. Are commercial mixes often given a big 10k+ EQ boost on the mix bus? 
+4. With regards to frequencies greater than 10kHz, am I just generally stupid and deficient?",t2_tivuq,23
+How can Audacity help me fix a dialogue that I recorded inside of a car?,Thank you!,t2_12olg0,0
+How much soundproofing do you actually need for vocals?,"I've been looking at options for soundproofing, creating a small booth, putting huge blankets all over the place... But it all seems a bit overkill for what i actually need it for. It's only for vocals, i live in a terrace house and the walls are kinda thin so it makes me really self-conscious about singing loud so it limits my range.  I've even thought about making a small soundproof box to put over my head, as ridiculous as it sounds, at least it would get the job done and it would probably be cheap to make though i'm sure there would be issues with comb filtering and airflow i bet. So how much soundproofing do you even need for a voice to stop it travelling through the walls?",t2_y5976,12
+Possibly the dumbest question ever posted here but... How do you get a reference track?,"Okay so before you laugh to hard, all of the music I have is either streaming or from iTunes. 
+
+Streaming obviously comes across in low quality and I cant set it in my project. Purchase from iTunes do not give you 24bit wave files, which honestly I do not know if that is necessary or not? I could pull a song off youtube, but again, low quality.
+
+So where do I get reference tracks, and what quality / file format is necessary for it to be a good reference? ",t2_tx88ztq,68
+Question About Phase,"I understand the importance of making sure mics are in-phase during both recording and mixing, but when working ITB is there any reason you can't just zoom in on the waveforms and line up peaks with peaks/troughs with troughs visually? I see a lot of dudes using plugins like Sound Radix Auto-Align for lining up polarity but it seems like an unnecessary gadget when you can just get different sources in phase by referencing sharp transient across several tracks, i.e. a rimshot on the snare. I did this on a project recently and really beefed up a snare in a way that simply flipping the polarity couldn't accomplish. Any input or just general phase discussion much appreciated :-)",t2_63z3k,3
+Starting out freelancing,I was wondering if there have any tips/tricks or resources to start out freelancing as an audio engineering? ,t2_28vy5hu2,0
+Old Firewire equipment to Thunderbolt,"Hey All, I have an old Presonus Firestudio project devices that outputs with  IEEE 1394. I cannot figure out a way to adapt it to USBc Thunderbolt or usb3. Any ideas on adapters? If I did find a way to adapt would it likely be buggy or have a loss in quality? I might just have to get new equipment but it stinks because the old equipment worked great and suited my purposes. Thanks for any insight! ",t2_207be601,9
+Waves Free Mixing Course with Dave Darlington / reference track question,"Just found this sub today, and I’m glad, because I really want to become the best audio producer/mixer guy I possibly can.  I’ve been self producing/mixing a record for 9 months (ive done several records in the past ten years but this is the most seriously I’ve ever taken it). I am of course also the artist and the writer and blah blah, we are in the age of many hats. 
+
+Wondering if anyone has watched this Waves series? I’ve found it extremely useful. Not always gonna have all the plugins mentioned but just watching pros go at it and talk about their process and why they make their choices is really cool. I’m not done watching them really but one questions that really stands out to me is this: 
+
+
+When using a reference track, wouldn’t that track already be mastered? How is it helpful to reference a fully mastered track with a track that’s in the mix phase? Like it feels like using a mainstream released track for reference when mastering makes sense, but how are we supposed to get hold of the mixes?? 
+
+",t2_16drc7,9
+Power adapter question for audio interface,"I just bought an old used Scarlett 18i6, and it didn’t include the power adapter. I plugged in a 12V adapter rated for 350mA, and all I saw in the mixcontrol software was a full meter of static on every analog channel. It’s asking for 12V 1A, so I assume that the static was a result of under powering the device. 
+
+My local Best Buy sells an AC-DC adapter, variable voltage (up to 12V) and rated for 1.3A. Will this power adapter work for my interface? I assume that even though it’s rated for 1.3A, the interface will only draw as much current as it needs. 
+
+Is there a flaw in my logic here? Also, do you think I’m correct in my theory that the static on every channel is due to under powering the interface? The seller said that it was fully functional, and he had a number of good reviews. 
+Thanks!
+
+
+UPDATE: 12V 1A power supply worked great, thankfully it looks like under-powering via current didn't do any damage. I ended up grabbing the variable voltage power supply just for the sake of having a spare around, and am planning to order one specifically for the 18i6.",t2_1pgy101t,3
+"Tips &amp; Tricks Tuesdays - December 18, 2018","Welcome to the weekly tips and tricks post. Offer your own or ask.  
+
+For example; How do you get a great sound for vocals? or guitars?  What maintenance do you do on a regular basis to keep your gear in shape?  What is the most successful thing you've done to get clients in the door?
+
+  Daily Threads:
+
+
+* [Monday - Gear Recommendations Sticky Thread](http://www.reddit.com/r/audioengineering/search?q=title%3Arecommendation+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Monday - Tech Support and Troubleshooting Sticky Thread](http://www.reddit.com/r/audioengineering/search?q=title%3ASupport+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Tuesday - Tips &amp; Tricks](http://www.reddit.com/r/audioengineering/search?q=title%3A%22tuesdays%22+AND+%28author%3Aautomoderator+OR+author%3Ajaymz168%29&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Friday - How did they do that?](http://www.reddit.com/r/audioengineering/search?q=title%3AFriday+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+
+
+     Upvoting is a good way of keeping this thread active and on the front page for more than one day.
+",t2_6l4z3,6
+Do you guys like videos about music production?,"I love watching artists go through how they create their music, and I've made /r/MusicProductionVideos as a central resource for finding videos on producing. I hope you'll come over and share your favorite video! Mixing videos are very welcome!",t2_b5373,2
+Audio interface routing software,"Is there a universal type of software that makes it easy to route things to and from the ins/outs of an interface? 
+
+I have a Behringer interface (UMC204) that works fine but it doesn’t seem to have any support for software like I see people using with focusrite and other brands. 
+
+I’m considering getting a bigger interface but I want to get one that is able to configure inputs and out puts the way I want. 
+
+Is this just a cost saving thing for Behringer and other brands have always had it? Do I even need it? (Using reaper if that helps). ",t2_5q86j,1
+How do you personally use track sends in a DAW? Are the typical dual send knobs per track in DAWs an obsolete artifact from analog days? Or am I missing out by not using them?,"I don't use them. When I want reverb on a track I add it to that track and tailor it for that track. Same with any other audio effect. I get how they are essential on analog when I have only limited hardware, but a software effect can be multiplied almost indefinitely so we don't need to share one effect configuration between multiple tracks.
+
+So is the way they are incorporated into DAWs vestigial? Or is there still importance behind shared effects over individual? Is there a way I could be effectually using the sends? Can having the same effect on multiple tracks somehow pull a song together in some way? Or is it simply just for the convenience of ""well, I always set my [whatever effect] the same no matter what so might as well just do it once""?
+
+EDIT: whoa, glad I asked - I'm learning a lot - thanks for the info!",t2_daco1,96
+Noise reduction with multiple recotdings?,"I recorded a concert today with the only microphones being used the internal ones in two cameras and a phone mic (this was an all-of-a-sudden thing). What I'm thinking now is, can I somehow combine the recordings to make a clearer sound? How should I go about this?",t2_o3pdj,5
+Mixing drums for beginner,"Hi,
+
+Iam new into the world of mixing I was asking myself, is it better to put a compressor on the drum master track or compress each individual parts like kick, toms, snare etc.
+
+&amp;#x200B;
+
+Iam having a hard time to get my mix sound (fuller).  My mix sounds dry without no life.
+
+&amp;#x200B;
+
+Just so you know, i play death/black metal and iam using Reaper DAW with Bias FX and Superior drummer 3. for the EQ's and stuff iam using only the free plugins that comme with Reaper.
+
+&amp;#x200B;
+
+If you could recommend me mixing plugins that would help me, i will be more than willing to pay for them.
+
+&amp;#x200B;
+
+Thank you",t2_12hpg5,13
+What blog should I follow for tips and be updated?,"Hey guys, I'm new to audio. I'm learning production so I wanted to know the famous bloggers and channels for mixing, mastering, and production. I checked the izotope website, They have some good blog posts but 50% of them are promotion posts. So suggest me some website or bloggers or youtube channels. ",t2_1wvvph17,1
+Scarlet 18i8 extra inputs,"I read that the S/PDIF input on the Scarlett 18i8 can be used for two input channels, I'm wondering if there's any way to connect the 3.5mm headphone output of my digital piano to it to save an extra two inputs for other things? Is there any sort of 3.5mm to coaxial S/PDIF converter?",t2_4at4b,1
+How do you start your drum mix? Why?,"Do you start with the rooms and blend in the direct mics? Do you start with overheads? Do you slam the room mics? How do you decide where to pan the overheads? etc.
+
+More importantly, why do you make the decisions you do while mixing drums? What informs the decisions you make? Genre? Style? Feeling? ",t2_fybwy,17
+LOUD but not crushing transients?,"hey everyone. been producing electronic music for 4 years now. ive read a lot on trying to get a loud master. ive picked up a few things such as a loud master depends on a really good mixdown etc. while all this is good i still am not able to get the loudness i would like. i listen to some of these guys tracks and am blown away at how loud they can push their tracks without clipping their drum transients and squashing the absolute life out of their tracks. i guess my biggest question is........how do i get my master loud but to where the drums are still clear and aren't crushed to death? ill post some tracks below for reference. im sorry i know this question has been answered probably a thousand times i just can't find anything that has REALLY stuck with me over the years. appreciate any replies! 
+
+https://soundcloud.com/mvrdauk/break-and-fall
+(1:15) super tight kick and punchy snare. (anytime i try and make my drums sound like that, then try and get loud on the master it fucking RUINS them and drastically alters the sound)
+
+https://soundcloud.com/mvrdauk/frontline
+(54 seconds)
+
+https://soundcloud.com/theofficialtrilla/playcard-black-ops-xl
+(56 seconds)
+",t2_2c8ri433,1
+Frequencies to avoid on iphone?,"I’ve been referencing a track I made on various devices and it sounds pretty good everywhere apart from my iphone. 
+
+The kick in-particular almost has a clipping sound when played out of the phone speaker, on the iPad it sounds fine and also fine on headphones and my monitors... just on the phone.
+
+Anyone had this before? It’s kinda buggin me and I’m not sure if it’s my mix or the phone not handling a certain frequency to good",t2_1u6a1pbp,2
+Are behringer products that bad?,"I feel like having behringer products is kind of a taboo in live mixing (not sure if it applies to studio work). At my school we have a X32 and it works. The build quality is bad imo (we almost destroyed some inputs because the connectors are bad), software isn't that great (they did improve it though) but it works: It does the audio processing and sends it out. 
+
+Now: In the end we all want to work with the best stuff available out there. Problem will always be: budget. If my school had unlimited money we would be working with GrandMA's and stuff, but they don't.
+
+So for someone with a tight budget Behringer does a really good job at keeping prices low while deliviering decent/good products.
+
+How are your opinions about this?
+What is the problem with having Behringer products.",t2_11jm5c,75
+Cut EQ -&gt; Compression -&gt;Boost EQ ?,"I've been getting into the technique of cutting the frequencies you dont want before you compress ... and then boost after compression.
+
+Let's say you're working on a Snare drum. 
+
+Cut EQ: You high pass around 100 hz and cut 500 Hz at 3 db.
+
+You now throw in your compressor... set your attack, release, etc.
+
+BOOST EQ: Now in comes your 2nd EQ for boosting. Boost 180 Hz and 2500 Hz.
+
+My question is: if your 2nd EQ is meant for boosting... and the ""cutting"" portion was done by the first eq (before compression) ... won't all the cutting be reintroduced since those frequencies were left alone in that 2nd EQ? 
+
+",t2_129oc6,3
+Best engineered song of all time?,"Hey guys. Obviously this question is opinion but I like opinions. I'm curious to hear what your favorite mix and mastered song or songs of all time are. Or it could even be instruments, vocals, synths and how much you like it's mix, eq, reverb etc. 
+
+For instance my favorite snare sound at the top of my list is in ""One Headlight"" by the Wallflowers. 
+
+This should be a pretty amazing response. Doesn't matter the genre, whatever drops your jaw, I want to hear about it.
+
+Edit: I'm loving these responses. I listen to pretty much every genre of music and seeing the diverse responses just proves that music in itself is an amazing force. Keep the responses coming. I'm going to listen to every single recommendation.  Thanks guys. ",t2_2gh8io5a,42
+I really wish I could re-mix and re-master,"Metallica's Death Magnetic album. No master, no mix. The full untouched recordings. That would be the pinnacle of a mixing project to me. I've been a long time Metallica fan and they've influenced a lot of my rock side. It's why I started playing guitar 20 years ago. That album was so well written but so poorly mixed and mastered. I wish i could get my hands on it. I'm drooling just thinking about it.",t2_2gh8io5a,0
+How important is your initial balance to your mixing process? When do you start referencing to other mixes you admire?,"When mixing, the initial balance seems to be nearly the most important thing which determines the quality of your final mix. 
+ 
+It seems to me, that EQ, compression, reverb and effects are just tools to make that balance shine even more. You want to use those things to bring out the character of the parts and remove clutter.
+
+Is this how you view the balance stage? At what point do you check your mixes against others? While balancing? or when you're closer to being done?
+
+Thanks!",t2_fybwy,1
+Mounting Acoustic foam on wall?,What do you guys recommend to mount acoustic foam panels to the wall? I tried duct tape and double sided scotch but it falls off after a while..I feel like thumb tacks would be deadly if they fell down and I didn't see them lol..Thx,t2_e4gl11,4
+Career Transitioning into Audio/Music,"Hey guys,
+
+I was wondering what is the best way to make a carreer transition beetween a complete unrelated field into audio/music production? Has anyone here achieved that? How did you made it? (Completely or gradually changed? Made courses? Worked in studios for free? Created a home studio? Teaching?) 
+
+Thanks!",t2_jhh293n,0
+Monitoring Problems,"I am mixing using Yamaha HS7s.
+
+&amp;#x200B;
+
+The problem I'm having is that I get the mix sounding good in the monitoring environment, but when I take the mix to my hi-fi, it is far too bass heavy. I have to work on the mix, and then reference on the hi-fi, only to find that there are still too many bassy undertones.
+
+&amp;#x200B;
+
+I'm mixing a jazz quartet, and the problem is the upright bass. It was recorded with both a bridge mic and a DI. Both have 50hz high pass filters on them, and are peaking at about -18 on the faders, but it still sounds too much through hi-fi and even my pc speakers.
+
+&amp;#x200B;
+
+Any ideas? It's a real pain to go through the rigmarole of exporting, uploading to soundcloud, and playing through my different speakers, only to find my monitors aren't giving me an accurate bass reading. Are my hi-fi speakers too bass heavy or something?",t2_kpmzi,3
+Using both my interface card and my on-board sound card?!?!,"Hey pals,
+
+&amp;#x200B;
+
+I am a noob audio lover who has recently purchased a pair of PreSonus Eris 3.5 along with the newest PreSonus Studiо 2/4 interface. I have started playing my music through the interface as my main card, however, I have a standard 3.5mm microphone that I cannot plug into my interface since the interface only has combo TRS 1/4 inch inputs. My question is: Is it possible to still run the microphone through my on-board default sound card, and run my monitors through my interface. I apologize for my lack of understanding in the field of audio engineering. I am just starting. I have a lot to learn.
+
+I am on Windows.",t2_bjchs,0
+Should I go down to 44.1 when I’ve been doing 88.2 or 96?,"In another thread on here I was completely surprised to see that the consensus was that tracking at 44.1k was the norm. At the studio I’ve been recording at, they’d never be caught dead tracking at anything below 96k. I often do 88.2. And always 24 bit depth. My projects eat up space fast, and it would be nice to have smaller file sizes. Also my computer can handle it better when the projects aren’t so data heavy. 
+
+Can 44.1k sound great then? I’ve been lectured by my producer many times about why 96k is the best. And how like plugins, mixing, mastering want better data I guess, and then you shrink it down for the consumer. Kind of like shooting in 4K but releasing a video in HD.
+
+Is there a flaw to my logic there?",t2_cy72z,88
+"I know how to use Cubase and Reaper to a high level. I need to learn to use Logic, will I find it easy?","I've found transitioning to other DAWs not much of an issue in the past. Will I be OK with Logic? I don't have a Mac yet so no way of giving it a go. 
+
+Thanks!",t2_fmld1,0
+"Band Rehearsal space setup, are individual mixes possible?","Hi, I had a question about setting up a band rehearsal space. Currently we use a few firestudio personus modules into pro logic then each band member gets a headphone mix during practice. Is there a setup where each members headphone mix can have its own controls so each member can turn up and down different parts individual to their mix? I'm sure to recording and setup. ",t2_qazay,0
+Alesis nitro and ezdrummer problem with cymbal choking...,"Short and sweet.
+
+When I hit my crash and attempt to choke it, it chokes but then it stays choked and I have to reset ezdrummer 2 for it to revert to normal.
+
+I checked the mapping on the nitro module but it is mapped to a open crash but it still sounds choked.
+
+Does anyone know know a remedy to this soi can still use the choke function?
+
+Thanks in advance guys. ",t2_n6puiab,3
+Having issues with a producer,"tl;dr Our producer's not what I expected and there's tension in the band/studio that may necessitate change.
+
+
+Two years ago my band started production of our first full-length album with a guy who was just putting his foot in the door with owning his own studio. He didn't have the capability to record live drums and didn't have the confidence to record live bass, and so programmed both. He didn't think our lead guitarist picked hard enough, and re-did his rhythm parts (wrong, in a few spots) on his own rather than work it out with the guy who wrote them. He's seen us live a few times and knows what *we* sound like as a band, but that sound didn't make it through production.
+
+Well, we finally got around to starting on the next album about two months ago and the rest of the band agreed to keep working with the same guy. By now he's in a new building, has a good drum room, and feels confident enough to work with low end. But I'm not sure we're well off. 
+
+Most bands in our genre program drums. We have one hell of a good drummer who's  actually played on only one or two tracks in the past 10(?) years he's been in the scene, maybe more, and has almost nothing to show for his efforts. I'm not convinced the rest of the guys see the *need* to have him on the record and it's clear as day our producer's too saturated in our scene culture push anything. 
+
+On the first day of recording, he apparently told our new rhythm guitarist that he's too good to re-record. So he's probably still not interested in recording *us* like we're paying him to. 
+
+Then comes day three. As we're working out some song structures I look over his screen and see he's recording at 44.1khz. Now, I trust my own ears and the relief of peace of mind over any science and wouldn't dare track anything under 24/48, and mention this to him. He refutes with something about how 48khz takes up too much space/processing power or what not, nothing close to a realistic excuse to me, but I thought we wound up having a civil discussion about it all. He came across as calm and collected, maybe a little proud or amused, but everyone else in the room got a bit alarmed, telling me not to pick fights with the producer, and I remember being taken out to the balcony for a cig and to ""cool down"" or whatever they thought I needed. 
+
+I came out of it thinking ""If this is how we butt heads, we're gonna get along great"". Again, it was a civil conversation. I don't know *what* everyone else could have possibly heard to think otherwise. 
+
+But maybe I shouldn't have been so optimistic: he's apparently been open with others in the band about how whatever I said ""pissed him off"". They're all convinced. I don't know where I stand in his eyes, but with the lack of communication here plus everything that went wrong with the last album I *reeallly* do not want to continue with him. 
+
+The last time I recorded with other people was basically just two or three noobs yelling and poking fun at each other until we got a good mix. *That* somehow worked. *This* is making me fucking nervous. 
+
+Right now I'm half afraid to give input for my own album. Maybe it's my anxiety, but something about the guys' dispositions isn't giving me warm fuzzies about our upcoming sessions. ",t2_wobc5,109
+What would you call a device that takes a single source of audio and routes it to various speakers/headphones/amps/whatever?,"I'm looking for the opposite of a mixer...one audio source split to multiple output devices...
+
+Any thoughts on what to search for?",t2_6ym3,6
+Only have enough insulation to fill my walk in closet booth from knee high to roof. Is this enough for a nice dry deadend recording?,So basically I have a nice walk in closet I’m turning into a booth. So I have enough rockwool insulation to fill the closet walls but only from like knee height to the ceiling all around the closet. Do I have to fill the walls fully(floor to ceiling) to get nice dry recording or is what I have enough. Sorry if this doesn’t make too much sense,t2_meozh,8
+"Drum Kit Saturation – By track, whole kit, or both?","Yes I know that ***""it depends""***. I'm looking for a rule-of-thumb.
+
+How should saturation be approached for multi-track percussion? Yes the kick will likely be saturated, but then you go ""hey, saturation sounds good on the hi-hat too,"" etcetera, because saturation makes everything sound better and that can't be the proper way to decide to use it or not.
+
+So if you're saturating many tracks of a drumkit individually, would it not be better to saturate the bus for the entire kit instead? Or is the thinking that each track will generally need a different amount of compression? Is stacking by-track saturation with ""global"" saturation feasible or overkill?",t2_rfo73,5
+Using a solid state Head on stage DI'd to the PA system. (no cabinet),"So I am a professional musician and I am wanting to try something at the band's next gig.
+I wanna try running my solid state head directly into the stages PA system (so not taking the cabinet to the show at all). 
+
+Would this idea be possible without sounding utterly terrible? 
+Sounds great in the rehearsal PA",t2_e1s2o6,0
+Anyone have experience using the sidechain function on waves vocal rider?,So currently I use vocal rider for just my vocals and I’m enjoying the plugin but I’ve also seen a couple videos speaking on the sidechain function. I was on fly studio and couldn’t set it up but now that I’m on studio one side-chaining is 100% easier. But wanted to know how should go about using this? Do I use it only on instruments I want to duck when the vocals are playing ? ,t2_meozh,4
+"Backing up files: DropBox, Google Drive, Backblaze, or other?","I am wanting to do a one time set up of a system to have all my music production projects and files backed up. What would you guys recommend to be the easiest, smoothest, and reliable option out there?
+
+&amp;#x200B;",t2_c8n5f,3
+"Sidechained reverb -- yes,no?",,t2_mo62p,1
+"Audio ends up sounding quiet and slightly lacking in ""presence""; anything I can do?","So, I do gaming videos on YouTube, and something I've been trying to figure out is my audio. I've never been great at understanding audio, and how to make it sound good. Now, my audio is actually fine, technically. Or, rather, it's not bad. I'm just a bit nitpicky, and I'm trying to see if there's any tweaks I can make to make it sound better.
+
+I'm not even really sure how to describe what bugs me about my audio. The best way I can put it is, when I watch a video or stream of someone else, their audio sounds as though they're right there in the room with me, yet when I watch my own videos back, it sounds like I'm ""watching a video"". Does that make sense? It's not bad, but it's just slightly... off. It also sounds a touch quieter than a typical ""pro"" YT video, which I don't understand.
+
+My process for recording and processing my audio is as follows:
+
+​
+
+- I record in OBS, with the commentary audio on a separate track. I use OBS filters for noise suppression and noise gate, and I also use a compressor filter with the following settings:
+
+Ratio (X:1): 3
+
+Threshold (dB): -30
+
+Attack (ms): 1
+
+Release(ms): 60
+
+- I import the audio into Audacity, and use Equalization to boost the bass and treble, I use the hard limiter to even out the audio a bit, then normalize to -1, and use noise removal to clean up any extra background noise/ frequencies. I export the audio as a WAV file (with whatever the default settings Audacity uses for that).
+
+- I edit my videos in Premiere (Elements), and when I export them out to a final video, it uses 320kbps AAC audio. The audio format options are either AAC, Dolby Digital, or MPEG.
+
+​
+I record in a small room, and while I don't have any kind of noise proof padding, I've seen other channels that record in a similar type of room that still sound better than mine.
+
+Is there anything in there that could be tweaked to help me out? I really don't know what to tweak or how to tweak it.
+
+Someone suggested I ditch the noise suppressor in OBS, and I tried that, but I don't hear any noticeable difference, other than a more noticeable ""hissing"" frequency.
+
+I was wondering if perhaps the compressor is what's causing my issue, but I also like the idea of a compressor (as, to my understanding, it helps to keep the audio relatively consistent throughout, which is nice, because I sometimes get really quiet and really loud at random intervals). Do bigger YTers/ streamers not use compressors? Is that not actually a thing?
+
+Again, I realize it's not a big deal like I'm making it sound. If there's nothing I can do, it is what it is, and again, my audio isn't exactly bad. I just find myself extremely curious about how to improve my quality.",t2_8mirrdj,1
+Acoustic insulation in Australia?,"Hey,   
+so I'm looking into building a few DIY acoustic panels at the moment, and am having a hard time finding a good insulation product to buy in Australia. I've found a few threads which recommend various products and am not sure which to go for
+
+My current options are: 
+
+[Bradford Soundscreen R3.1 1160x430x110mm \(2.49m2\)](https://www.bradfordinsulation.com.au/-/media/bradford/files/soundscreen-datasheet.pdf) for around $35 per 5 pack (maybe stack two in each panel?)  
+
+[James Hardie 1160x420x85mm Hardiefire Insulation](https://www.jameshardie.com.au/uploads/file/20170220456a1f-20170220-JH_HardieFire_datasheet.pdf) for $100 per 5 pack
+
+[Bradford Fibretex 350 1200x600x50mm](https://www.bradfordinsulation.com.au/-/media/bradford/files/fibertex-350-datasheet.pdf) for $80 per panel
+
+[Bradford Ultratel 48kg Board 2.4mx1.2m 50mm](https://www.bradfordinsulation.com.au/-/media/bradford/files/ultratel-datasheet.pdf) for $147 per 3 pack 
+
+If anyone has experience on this in Australia or knows of any other products please let me know, thanks!",t2_9d821,0
+Stereo/Mono/Phase invert and for mixing &amp; mastering for vinyl,"I am very much a beginner at mixing and mastering, but I am working on masters for vinyl (for want of money, not lack of faith in professional engineers) and am trying to reduce stereo low end on a mix. I think I am doing okay because when I test the mix in mono mode, the low end of bass and drums doesn't move at all, just seems like some of the high end on synths and shakers etc are spread out a bit more in stereo vs mono. When I do phase invert on either L or R, not much changes. When I do a mono   + phase invert on either channel, the low end and bass and drums mostly disappears, which I'm taking to mean that if you isolate far L or R, there's only high end information there, which would be good for vinyl because you don't wan't low frequencies on the wide ends of the stereo field or it will cause skips. Am I right about this, or should you be able to still hear low end in that phase invert + mono monitoring? Thanks in advance for anybody that takes time to answer this.
+
+EDIT: Thanks all so much for your advice, so helpful. Also I should clarify to address some other concerns that were raised: I am in contact with the cutting engineer, and I'm at this stage because my first set of masters had too much stereo bass information, so I'll get feedback on the next pass. Also, yes, doing reference lacquers!!! ",t2_6zd2o,32
+Question regarding conflicting guidelines in ACX submission guidelines regarding sound levels.,"I'm looking to start recording audiobooks for my novels. I'm intending to use the ACX platform (Audible), but a couple of their submission guidelines have me a little perplexed.
+
+One guideline reads as follows:
+
+&gt;**Each file must measure between -23dB and -18dB RMS.**
+
+&gt;Put simply, all files must fall within a specific volume range. By keeping all files within this range - not too loud and not too soft - listeners won't have to constantly adjust the volume of their playback device.
+
+But the next guideline reads:
+
+&gt;**Each file must have peak values no higher than -3dB.**
+
+&gt;By leaving this headroom you'll reduce the possibility of distortion, which can reduce the quality of the listening experience. This headroom is also needed to ensure files are successfully encoded. 
+
+These two seem contradictory to me, as the first one seems to say that there can't be any sound higher than -18dB, but the second suggests that there can be sound up to -3dB.
+
+I'm very new to audio recording, so perhaps that's why I'm confused, but if anybody can point out something I'm missing, I would be greatly appreciative.
+
+Thank you.",t2_e3928,0
+The importance of a consistent workflow (or presets work too I guess),"I'm in the mildly agonizing process of mixing my next release, and ran into a major facepalm moment today. One song has been irritating me for weeks because it was coming off extremely muddy and I had no idea why. It's an instrumental tune and I DI everything so there's no way it was room noise or anything. I messed with EQ on every instrument at least 10 times and couldn't get it to sit right. I gave up and decided to come back later (always good advice).
+
+&amp;#x200B;
+
+Another song was coming across way too sterile and didn't have enough punch. I had the brilliant realization that I probably needed to adjust the high pass on the reverb. I decided to cross-reference the reverb's high pass on the other songs to try to unify them a bit more. I go back to the instrumental track to check on the reverb and...never did it. That would certainly explain the mud.
+
+&amp;#x200B;
+
+Needless to say I now have a preset on both my EQ plugin and reverb so that doesn't happen again. Literally hours of agony because I'm a total idiot.
+
+&amp;#x200B;
+
+And while I was typing this I went back to inspect some vocals that were misbehaving. I went to adjust the DeEsser and naturally I never set that up either. Please send help.",t2_a631u,1
+Anyone else using Auto-Tune Pro or other Antares software?,"I’ve always been a huge fan of Antares software because also being heavily interested in computers, I’ve always been fascinated by the algorithms that must work behind their plugins, especially Auto-Tune. I also found a bug one time in one of the minor releases of Auto-Tune 7 and emailed them about it, and one of the developers actually called me to talk about it while I helped him reproduce it on his machine so they could fix it in the next release. That was really cool being a programmer, and being a teenager at the time knowing that I was the reason a bug in a piece of software used in thousands of major studios around the world got fixed with the next update, haha. 
+
+Anyways, I’ve been using Auto-Tune since I purchased the boxed version of Auto-Tune Evo several years ago and I’ve purchased every single update since. So as soon as Auto-Tune Pro came out I bought the update, and I’ve been using it for several months. I really like the new UI design and I think it was a well-needed refresh.
+
+However, when it comes to actually working with it, I’m really disappointed. It’s buggy as hell. 
+
+First off, when they first released version 9.0.0, there was a bug where the update window would pop up *every single time* you’d open up the plugin telling you that an update was available to version 9.0.0, even though that was the version you were running. Antares quickly pushed out 9.0.1 within a matter of days, a release specifically to address this bug. But what concerns me is exactly how did the developers manage to miss that? How do you miss a bug that obvious that occurs *every single time* the plugin is opened?
+
+Secondly, it’s super unstable. It seems to be better in automatic mode, but in graphical mode it randomly crashes Logic Pro quite frequently (like every 5 minutes). I thought maybe it was an issue with Logic, so I tried it in Reaper instead, and same thing.
+
+Lastly, there are just random minor bugs throughout. For example, in graphical mode, the adjust vibrato knob literally does nothing on line objects. I thought maybe this was just missing functionality for line objects, but according to the manual, it should. Sometimes the cursor in graphical mode also randomly jumps while you’re drawing an object, which is really annoying.
+
+I don’t know, I feel like Antares has really dropped the ball with this one, and I’m kind of disappointed, especially since I’ve been a loyal customer of their’s for years. It almost seems like Auto-Tune Pro was hyped up by Antares at all these producer and audio engineering conferences, just to be rushed to release long before it had gone through proper testing for bugs and stability. I think I’m going to switch back to 8.1 for now until they release the next patch because sonically the two releases are supposedly the same, but who knows when the next patch for Auto-Tune Pro will be. We’ve already been stuck with version 9.0.1 for about half a year, when I’m sure I can’t be the only one that has noticed these bugs.
+
+Thoughts?",t2_z2j2k,14
+Stovepipe resonance,"Hi guys! So I'm now working in a place where there used to be a stove, and the stove pipe is still there (probably goes on till the roof). But it resonates with an E flat and it is very very annoying. Any tips on how to fix this? 
+
+&amp;#x200B;",t2_uh6is,1
+Sup cousins. Do you think it’s possible to hear what mic was used on a vocal recording?,Discuss ,t2_5o59dl,0
+THE BEST possible way to convert mono vocal track to stereo.,"What’s the best way I can accomplish this? I’ve a vocal track recorded using android phone with Titanium recording app. I’d like to convert that to stereo. I’m using the DAW Logic Pro X. I tried merging the two mono tracks panned equally to left n right using command “command+J”. But in the resulting track, if I checked using multimeter, it still turned out to be mono.  
+  
+How do I get the best out of what I can by converting the mono track to stereo? Do help. Thanks. ",t2_sofxp,0
+Mics for voice vs mics for musical instruments,"I've been looking around the internet and people who record live instruments seem to have different ""top picks"" than those who record people talking. Why is that? Is there a technical advantage to different types of mics or does it depend on specific situation?",t2_o3pdj,0
+Minimum safe distance for mics recording boiling water?,"Hey gang!
+
+I want to record some sounds for my sample library that can be used as atmospheric layers. Someone just gave me the idea of recording boiling water.
+
+I have a Zoom H5 recorder with the XY mic module. I want to be able to get as close as I can without possibly warping the mic membranes or other nightmares.
+
+Any suggestions?
+
+Cheers! &lt;3",t2_4n7qz,77
+"Do some DAWS have tighter timing when recording with midi? If I were to try recording classical rock piano solos via midi and a vst, would I be better off using Reaper instead of Ableton? Using Ableton as of now. Details and specs in the text box.", 2015 asus g750Jx 24 gig ram gaming laptop running windows 10. DAW is ableton live 9. Internal SSD for samples. RME babyface pro interface. Headphones Beyerdynamic DT 1990 pro.  Piano Vst Vienna Imperial.  Just trying to record solos I classical rock solos I wrote.  Some of them have technically difficult parts.   ,t2_6km8c,0
+Are you recording bottom tom mics with on your drum recordings?,I've always felt that toms were one of the most costly sounds on any record. Just one mic and one good pre plus a channel of high quality AD adds up when it might only get hit a couple times in a song. Taking it even further and recording the bottom heads would double things up. Is it worth it? I use 421s for toms but I don't have enough for top and bottom. I do have several MD409s which have a similarly large diaphragm to a 421. I'm wondering about this madness. ,t2_48dcv,1
+Thoughts on mixing with noise-cancelling headphones?,"Assuming you understand the frequency response of the headphones, would there be any specific benefits to mixing with noise-cancelling headphones? In theory, it sounds advantageous, but I'm not aware of any professionals that have ever said they work with them. Pros and cons?",t2_15eia5n,0
+JBL 305p positioned horizontally ?,"I am trying to research a good audio solution for my desk for a while.  The problem is that I have a PC and two displays on my desk.  So, any studio monitors would have to clear the space between the desk and displays, which is around 7"".  I would love to make the JBL 305P work, because I think they are the best sounding for the price.  Is it a really bad idea to lay them down horizontally so they in my space?   Also, if anyone thinks there are better monitors for around the same price as the JBL's, do let me know please.",t2_om5w4,0
+Fabfilter...any chance of a subscription plan?,"Just watched the video Fabfilter put out about their new Pro-Q 3 and I must admit I was floored. Amazing piece of software that I'd love to get but then seeing that their still stuck in this old school system to get it...not saying it's not worth 180 bucks because it is indeed incredible. But also for ~180 bucks, I'm getting 20 something world class plugs from Slate for an entire year...and so while yes, I'd own this forever, I just can't imagine why FF wouldn't be offering some kind of subscription service of their own. I've been a huge fan of their plugs for years, and if they had a similar plan for say, pick 4-5 plugs for 10 bucks a month or something, I'd be in in a heartbeat, but it just seems mind blowing that more companies aren't getting on the train. So hey FF, Pro-Q 3 (as well as many of your others) is an amazing product! Make it competitive in 2019 and we'll get behind it!",t2_cao3u,0
+Soundcraft Signature MTK 12,"Hello, are you're having a nice day? I hope this is an okay place to ask this question.
+
+I have been using this mixer for a bit now and it's solid. I'm having an issue at the moment where the signal to my PC is half or less what it used to be. I am aware of my gain staging, and I'm trying to keep the gain as low as possible on the mixer, but when recording my OP-1 into my daw, the signal is super weak, even though it comes out strong through the OP-1 itself or through my monitors. My eurorack is also running kind of cold into the PC (not out of the monitors), especially for eurorack.
+
+It's very confusing to me. In PFL the OP-1 is showing 0db on the Soundcraft's meter, but I'm only getting -18dbFS in Reaper.  I'm using Reaper on windows 7.
+
+Should I just rely on normalization to beef up my wave forms after recording them?
+
+&amp;#x200B;
+
+Thanks in advance for any suggestions.",t2_5gp92,2
+Any advice on improving my volume automation?,What are general tips or ideas when attacking this? Do you guys automate every channel or do you leave vocals alone and automate throughout song around that? ,t2_meozh,4
+Expanding Apollo w/Focusrite?,"I'm sure this is a dumb question, but I'm having trouble figuring it out.
+
+I have an Apollo 8 Firewire interface as my main interface. I have my old Focusrite 18i20 just sitting on a shelf. Would I be able to connect the 18i20 into the Apollo 8 to expand my inputs to 16?",t2_5jfep,0
+Good earplugs / filters?,"Hey AudioEng,
+
+&amp;#x200B;
+
+What are your go-to acoustic filters / earplugs for attending live shows? I'm looking for a relatively inexpensive pair - something that I can recommend / buy friends as well.
+
+&amp;#x200B;
+
+Thanks in advance! ",t2_d4zdb,3
+Where do you guys get your lossless reference track for mix referencing ?,"Spotify is nice, it has everything, but the sound is far from lossless... And for some artists it is really difficult to find CDs or even downloadable lossless content... 
+
+How do you deal with that ? Is there amazon like place to get downloadable lossless content that I ignore ?",t2_1w58d046,0
+Will I EVER understand compression...?,"Ahh yes, my monthly compression post...
+
+I 'get' the idea of compression but I am struggling SO much with how to hear what is reasonable/appropriate/too much when adding compression. Here's my understanding and PLEASE correct me on any or all of this:
+
+Threshold: The point where the plug in actually kicks in.
+
+Ratio: How much of the sound over the threshold is compressed.
+
+Attack: Length of time before Compression kicks in
+
+Release: How long compression is held for
+
+Makeup Gain: Getting the 'lost' volume back from the compression.
+
+I'm trying to start with understanding the Logic house compressors, I've picked one to learn, Studio FET. 
+
+My problem is, I can see the needle move and know something is happening but I just can't tell if I've found a sweet spot. Am I monitoring the WHOLE track while getting the compressor right or picking a particular good point where there might be loud words or soft words and looping it till I get it right? 
+
+I've watched tons of videos, explanations, animations, you name it but I just can't get to grips with it. I think I need some exercises that will let me practice compression. I have a lot of recorded vocals and acoustic guitar, so plenty to work with, I just need to know what I'm listening for and how to know when I've done it 'right'...which I know is subjective. 
+
+Also another question I have is, do you treat your compression like a mathematical equation? I find myself trying to do maths with the radio and db's blah blah blah...
+
+Thank you in advance.",t2_2r3uhjqr,205
+"""Reverse"" compression?","This is probably an easy answer but just something I have had a bit of trouble with - I mix live recordings from a music venue and some acoustic artists have such a huge dynamic range that some of the softer parts get lost as the level is set to suit the louder sections.
+
+I don't want to compress the louder sections down, I just want the level turning up if the audio goes below a certain threshold. Is this a thing? ",t2_64glw,6
+Does the audio interface have an effect on sound quality?,"I'm currently wasting a PreSonus Firestudio Project (8 channels, firewire). My parents bought it to me but they decided to place it in the living room and use it for music listening, with a pair of Dynaudio BM5a monitors (sounds amazing). I'm planning on buying a cheap, usb one channel audio interface and put it in my room, but I recently had the idea of swapping them and keeping the Firestudio to myself. Will there be a noticeable difference in the sound quality for music listening between using the cheap or the mid-range interface (of course, using the same monitors)? Thanks in advance.",t2_1gfdhgvh,5
+I am interested in listening to a mix with all compression plugins turned off (including master) compared to on.,"Is anyone willing to post their professional or semi-professional mix with and without compression for learning purposes? Preferably not rap or EDM? 
+
+Of course, this would have to be a mix where no analog compression has been applied.",t2_s63m7,3
+Please help me with my effect,"Im using a zoom g5 with my saxophone so i connect it with the XLR output. On the side of the output there are 2 buttons called pre/post switch and ground switch.
+
+On the zoom manual it said
+
+PRE/POST switch
+Use this switch to set the point when the signal is output from the BALANCED OUT connector.
+Set it to “POST” (pushed in) to output the signal after the effects. Set it to “PRE” (not pushed in) to output the signal before the effects.
+
+GROUND switch
+Use this switch to connect or disconnect the BALANCED OUT connector with the ground. Set it to “LIFT” (pushed in) to separate the signal path from the grounding pin. Set it to “CONNECT” (not pushed in) to connect the grounding pin to the ground.
+
+I don't really understand the instruction since i'm not familiar with pedals. How would i know  whether i should leave this two switch pushed in or not.
+Most of the tutorial on yt don't connect by XlR cable so i came to ask this sub.
+Also, what is a ground signal?",t2_116eimag,0
+Instrument (Guitar/Bass) --&gt; D.I. BOX --&gt; Mixer --&gt; Interface --&gt; DAW. Is it possible? Record Mono?,"Can I record all these on mono, and is it possible for these connections to be made?
+
+If a microphone, then yes, skip the D.I. (???), Straight into the mixer.
+
+New into this home recording thing.
+
+*first post :D",t2_bvoh41p,0
+rack mounted / analogue mpressors,"I'm currently studying music technology at college, and this has given me access to a studio that has a lot of analogue gear. as someone who's only ever used my DAWs built in compressor, I was mainly wondering if I should be using them in the same way? I'm assuming the analogue compressors are going to colour the sound a lot more than the stock software ones will, but is there anything else I should know/be aware of when using them?",t2_254hgpez,1
+Mixes lacking energy and punch,"Hi everyone,
+
+I’ve been recording and mixing for a few years now and I feel as though I have a grasp on the fundamentals. I mainly work on rap and R&amp;B but do the odd rock record here and there. Lately I’ve been comparing my mixes with industry ones, and the one thing I’ve noticed is a considerable difference in loudness, energy and punch. A couple of things I do notice on big records these days is that the vocals are loud as hell and in your face, the 808 or synth bass and kick are the second loudest, and the snare or clap is tucked neatly right behind the lead vocal. (Couple tracks I’m referencing are No Stylist by French Montana and Kika by Tory Lanez) 
+
+I’ve tried so many techniques, parallel compression, rear buss compression, M/S EQ, saturation, soft clipping on drums, etc. No matter what I do I find I still can’t get that “sound” that I hear in those records. 
+
+The last thing is that I’m scared to death of making my tracks too loud for Spotify as it just turns them way down, as I’ve received some nasty emails from clients in the past about this.
+
+If you’re interested I can post some of my work. I figured this is the best support system I have, might as well see what the community has to say. 
+
+Always appreciate you guys!",t2_udt9y,8
+"If I faced two speakers towards each other, one playing a sound, and the other playing the inversion of that sound, and I sat halfway between them (one facing my face and the other the back of my head), would I just hear silence?",,t2_bl2x2,16
+What would happen if you subtracted frequencies of one sound from another?,"So sidechain compression is used to say, make the bass quieter so the kick can come through. What would happen if you instead reduced the amplitude of frequencies on the bass line by their exact correspondence in the kick drum? So, subtracting those frequencies from the bass line. What would happen if you added attack and release on this effect? What would happen if you did this without playing the kick drum sample at all - what effect would be left on the bass line?       
+        
+What would happen if there was a percentage for the effect, the bass line frequencies were only reduced 70%, 50%, 30% of the corresponding kick drum frequencies? What if you did it backwards, so that the kick drum frequencies came through at 100% but all other frequencies came through reduced?        
+            
+Sorry for all the questions, rather than an actual post, I don't know how to attempt this effect so I have lot to wonder about. Also, as an aside, is this how subtractive synthesis works?       
+       
+Thanks. :) ",t2_xksgl,3
+What are some simple exercises to practice compression?,When you have some time between clients what are some ways you practice your compression skills? How do you know you are practicing properly and efficiently? ,t2_w2w6a,2
+Cost of Rehearsal Studio Buildout,"Hey everyone, hoping for some direction here...
+
+I am in the process of buying the business assets of a rehearsal studio building. However, the building itself will not be around much longer, and we need to find a new place to go. I have probably 4 months before the owners of the new building would start swinging a hammer, unless I can convince them otherwise.
+
+In the past week my head has been spinning doing my own research on the cost of construction for these types of studios and what is truly required. It’s been all over the map, literally from $25/sf to $250/sf. I’ve also been told that a new construction on land is financially off the table, compared to finding something that already exists and doing a buildout.
+
+The current studio has more than 20 units. Most of which are 180 sf trapezoidal practice rooms, with a couple higher grade areas of 800-1000 sf with light racks and leprecon controllers for larger acts and hourly rental.
+
+There’s not a single right angle anywhere. All areas between the halls and units are double dry walled (air in between, not insulation), two sets of regular old doors, and the ceiling was hung suspended independently of each unit, with tiles to capture noise. As for the floor... it’s concrete and there is some travel between units; they compensated by cutting grooves into the foundation and placing wedges (I’m sure that’s not the technical term) between units in the areas between the double drywall.
+
+The largest speakers in the building are Meyer CQ1’s and a lot of 4x12s, with quite a few ISP 500 watt wedge monitors on stage. Buttkickers are used pretty frequently by larger acts that come in, and in my experience do travel between the units. Those are in the  larger spaces by the way... the smaller 180 sf spaces have minimal equipment, or the musicians will bring their own (usually non-stack) amps. Foam wall pads are sparsely scattered throughout and all look second-hand / salvaged.
+
+This is by far the best constructed “non professional” rehearsal space I’ve used, the way. My first space I rented 20 years ago was in an abandoned leather building, and the other space I had rented out was an old elementary school. Both of them basically just lined the walls with carpet and called it a day. 
+
+Now, if we do lose the building and I’m forced to start anew, I have a lot of questions in order to maximize my investment. I’m not sure each of the practice rooms need the Cadillac treatment, but I don’t want my tenants surrounded by rotting carpet either. So I’m open to opinions on where to shoot for, quality wise. Other than that...
+
+A) what should I be looking for in a building? An empty shell? An office to retrofit? I’m assuming single floor. How about height?
+
+B) Construction labor rates are quite high at this time thanks to the booming economy, and the last thing i want is to end up with double costs in twice the timeframe. Are there any tips here on managing this? Are there pre-fab materials I can use to get a better handle on exact costing? Or would that be astronomical in comparison? In a perfect world I would want to be able to accurately cost the 180 sf practice pods, and then get creative with the larger spaces to accommodate to the crowd that would be willing to pay more daily/monthly.
+
+C) are there specific “gurus” in this industry that cater to these types of buildings? In the past couple weeks I have gotten a lot of head scratching from financiers, contractors, and architects who can’t quite wrap their heads around the concept of these spaces. It would be great to find a resource to help me get right to the point.
+
+D) Am I completely crazy? Any sage words of advice from someone who’s ever been in a similar situation?
+
+I really appreciate the help here. It would be the achievement of a lifetime to save this space. I just now wish I had a few years of construction management under my belt...
+
+Thanks all, you’re helping someone fulfill a dream here.
+
+",t2_sskva,3
+I'm interviewing to be an intern at a big studio tomorrow.,"What questions should I ask?
+
+Edit: I'm getting downvotes? Why?
+
+Edit2: I got the position. Thank you all for your great advice.",t2_dd3qi,160
+EQ and Compression in Analog Signal Flow?,"How do EQ and compressors operate in an analog context?
+
+I ask because I have been working strictly in the box for my entire time as a producer.
+
+I simply can't imagine that a separate compressor and EQ would be acting upon each channel at once in an analog mix (as would be the case in a DAW).
+
+Is each track printed after the desired settings are dialed in, and then the compressor or EQ can then be used to work on the next track?
+
+&amp;#x200B;
+
+Thanks people",t2_2rbmqm4s,2
+Rode NTA-1 Capsule Swap?,"Edit: May also help if I could type the mic's name properly... NT1-A\* 
+
+Hey everyone,
+
+I've used the same NT1-A for about 7-8 years now, never modded it.
+
+Now that I'm getting serious about music, I've been looking into how to upgrade it.
+
+I came across the RK-47 at mic parts. [https://microphone-parts.com/products/rk47-microphone-capsule](https://microphone-parts.com/products/rk47-microphone-capsule)
+
+My questions:
+
+Has anyone completed this swap? If so, does it make a difference significant enough to warrant the cost/labor?
+
+Finally, how difficult is the actual swap itself, is it a DIY project, or should I take it to someone?
+
+Thanks in advance!",t2_zpd9q,4
+"How to get vox to ""sit"" in the mix?","I keep getting told on r/RateMyAudio that the vox doesn't sit well with the mix, but what does this mean, and how do I accomplish this?",t2_1q6rui4i,3
+Live Mixing Simulator,Is there such a thing as a live mixing simulator? I would like to get some practice and fiddle around without having to ruin many live shows that may count... A quick google search didn't give me anything. Does this exist at all??,t2_2d47m33x,5
+Any FUN books you could recommend as gifts?,"My brother and I are both into home recording - he's 50 and knows what he's doing - doesn't need ""how-to"" books unless it was pretty unique. Are there any fun or interesting books on audio you like?
+
+edit: Thanks for the suggestions! I'll go with Recording Unhinged and a guitar pedal.",t2_cp8nt,2
+Ever used Spectra Sonics?,The 610 and v610 were pretty neat complimiters. Anyone else use anything by them?,t2_1fywp7z4,1
+Making a guitar amp,I am looking into making my own guitar amp for practice cause I don't want to pay for one. I can make a box and I know a brand that makes good drivers for cheaper. BUT i'm not sure about impeadence in guitars. I think it's around 1 mil and if I get a little chinese class D amplifier (which I plan to) the RCA level inputs I'm pretty sure are usually around 10k ohms but if I put an extra 10k ohm resistor in paralell with the guitar it should bring the impeadence down to around 10k ohms. Am I off my rocker or could that work?,t2_16ha9t92,0
+"How do I know when a single sound is spectrally ""correct""?","Hi all! Thank you for your time!
+
+I have a question that is more ""philosophical"" than technical.
+
+How do I know when a single sound (or track) is ""ready"" or ""correct"" frequency-spectrum-wise? 
+Is there any ""standard"" to satisfy every perception?
+Is it just arbitrary? Or should I just reference it?
+
+Two examples:
+
+- I have this footstep on sand sound and I feel I should put an EQ on it because it doesn't sound like in the real life. I EQ it and I feel it is ok now. How do I know how much it is OK and ready to be put in a videogame? How do I know the high end is sparkly enough, for instance?
+
+- I have this track and I reference it to another one in the same genre. I tweak it and now it sound very similar and very good to me. How can I trust that reference track of success? Why is it ok? Why is its spectrum good for everyone?
+
+Thank you!",t2_40pgpt,54
+Help for a total beginner (Increasing inputs to a Scarlet Solo),"So I'm just getting into recording in my tiny office, and was given an old scarlet solo from a friend! I'm a complete noob when it comes to audio, and have nearly no idea what I'm doing. As ya'll already know, the Scarlet Solo only has two inputs, a regular instrument cable and one XLR. So I am thinking about using a cheap mixer and just plugging its XLR out into the XLR input of the Scarlet solo so that way I had a little more control and didn't have to constantly try to fiddle with the tiny Scarlet Solo. Is this possible, or would it give too many latency issues? Is there any other work arounds you can suggest to increase the Solo's amount of ports?",t2_17habl,1
+"Friday - How did they do that? - December 14, 2018","Post links to audio examples that are apparently created by magic. 
+
+Please post specific links in the timeline if applicable.
+
+  Daily Threads:
+
+
+* [Monday - Gear Recommendations Sticky Thread](http://www.reddit.com/r/audioengineering/search?q=title%3Arecommendation+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Monday - Tech Support and Troubleshooting Sticky Thread](http://www.reddit.com/r/audioengineering/search?q=title%3ASupport+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Tuesday - Tips &amp; Tricks](http://www.reddit.com/r/audioengineering/search?q=title%3A%22tuesdays%22+AND+%28author%3Aautomoderator+OR+author%3Ajaymz168%29&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Friday - How did they do that?](http://www.reddit.com/r/audioengineering/search?q=title%3AFriday+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+
+     Upvoting is a good way of keeping this thread active and on the front page for more than one day.
+",t2_6l4z3,1
+The most insane/bizarre source of random noise I've ever come across....,"&amp;#x200B;
+
+So and my brother DJ, quite a complex setup - two laptops, two controllers, synced via an Ethernet cable, audio from both laptops into a tiny little 2-channel mixer, which then goes into monitor speakers.
+
+For a while things were pretty crappy, so we just put up with the random noise from the big monitor wedge we use. It's pretty crap, but it's fine for rehearsing and when we play live we use the club's PA system, so we'd rather spend our money elsewhere.
+
+Yet today I introduced a new laptop to the setup, and the noise was insane - really loud, really weird, it sounded like someone had placed a tiny microphone in the CPU and amplified the volume 10000 times.
+
+I narrowed it down to everything - it wasn't the new cables, wasn't the controller/audio interface, it wasn't the little mixer.
+
+The source - the new laptop's charger. When I unplugged it, the noise vanished. Zero background noise, very clean audio
+
+It was slightly quieter when plugging the laptop into a totally different socket on the other side of the room, but still there. The noise ALSO still happens when the mini-mixer had that laptop's channel MUTED! I really don't get it...
+
+Anyone ANY ideas?",t2_o9395nv,21
+Realistic Highball mics built by Shure: Rebranded SM58?,"I know Shure built various models of mics branded as Realistic for Radioshack , and was wondering if anyone has tested the different versions of the Realistic Highball (33-983, 33-984, 33-984A, B, C,etc...) , and how they compare to an SM58.",t2_2016o6fz,2
+EQ before or after the compressor?,"I’ve seen it done both ways. To me it always made sense to shape the wave frequencies after the signal itself has been compressed a little bit.  What are your preferences and why?
+
+Edit: Thank you for the input! I meant this as a discussion on all our practices and preferences rather than asking what is right because I know there’s no rules, only guidelines.  Great feedback!",t2_16syhz,132
+Can someone help explain these drivers?,"Backstory, I’m not familiar with audio hardware but have some ee background. I have some old Bluetooth speakers with crappy audio and thought about changing the drivers with a some I got out of a broken monitor. The old speakers were in a sealed enclosure with matching passive radiators.
+
+The drivers I got out of the monitor are rectangular and have some confusing acoustics. The sound clear when you face the drivers, but without much bass. But if you point them down, you can hear more bass, but less clarity. If i try to build a little portable enclosure for them, would they need to be in an unsealed enclosure, use the passive radiators, pointed down, or forward, etc? Just curious if anyone who is a familiar with this type of driver what the acoustic considerations are. Thanks
+
+http://imgur.com/a/nbOlvFw
+
+",t2_16hacepx,7
+"How to write or build audio interface usb drivers for common DAW's (Logic, ProTools, Ableton, etc...)","I was wondering if anyone knew how to write or create a driver that allows a device to talk to any of the popular DAW's on the market.
+
+At the moment, i'm designing a pre amp that I would like to eventually be used as an audio interface via usb and be recognized as an in/out when connected to a DAW. Basically a DIY focusrite.
+
+If you have any links to learning resources those would be very much appreciated.
+
+Thanks!",t2_2dhbz28,16
+Will frequently turning phantom power on/off damage my equipment?,"Hi, I have an SM7B plugged into a Cloudlifter which then goes into a focusrite 6i6. If I turn the phantom power on/off, will it damage anything? The cloudlifter needs phantom power to work from what I understand, so it should just turn it off, right? 
+
+I once joked with someone about using the phantom power switch on the interface as a ""mic on/off"" button and they said that it could damage the microphone. Would it?",t2_1071dyzy,5
+Is there a specific reason why consumer microphones don't depreciate in price often?,"I'm taking a look at the Blue Yeti and the AT2020 - both have been around the same price the last 5-7 years. Is this an effect of consumerism or do you suggest we either:
+
+A) don't have the audio tech to improve microphones around that price range
+
+B) marginal benefit decreases, so there's no point in improving audio quality if most buyers won't notice a difference
+",t2_f66jt,0
+When Using EQ on dialogue does subtle work or is it necessary to make strong corrections.,I EQ dialogue and I usually make very subtle cuts and boosts (no more than 3db). Can the average listener actually hear this or am I wasting my time?,t2_k0u99,3
+Why do guitar amp manufacturers advertise about how great their amps' bass frequency response is?,"It's relatively common for guitar amps to be advertised using phrases like ""huge, monstrous bass"" and other marketing terms regarding the impressiveness of how bass frequencies are reproduced by the amp. 
+
+Is this a mere marketing gimmick oriented toward guitar players who either don't know or don't care how the amount of bass in their tone might interact negatively with the tone of the band's bassist? When guitar amp manufacturers advertise how great the bass response of their amp is, are they also necessarily referring to the extent to which their amp will compete with a bass guitar? 
+
+I guess my question is whether an amp being advertised as having ""huge bass"" could translate into anything musically useful in the context of a band without necessitating that the bass guitar take up less space. If ""bass"" simply means frequencies from roughly 40 Hz to 300Hz, doesn't any advertisement about a guitar amps great bass presence mean that the bass guitar will have to be attenuated to compensate?",t2_9tmid,2
+Mastering for Spotify?,"I've been working on a song for a friend of mine, and he wants to upload it to Spotify via Distrokid.
+
+  
+However, reading I've done suggests that spotify limits tracks to -14 LUFS, while the track I'm working on is currently peaking just under there. However, it is \*very\* quiet in comparison to a lot of stuff I've listened to, or even my own music on there - with the peak being around -5dB on the levels. 
+
+&amp;#x200B;
+
+My issue is that it's a very dense mix, with a punk rock vibe. Low end rumble taken out, all the high end that wasn't audible in the mix shelved off. I've done everything I can to make sure everything is audible, and I'm happy with how it's sounding, but it's just too quiet relative to everything else on the platform.
+
+&amp;#x200B;
+
+The only option I can see is to turn the limiter gain up, but that will compromise the mix which I'm happy with. 
+
+&amp;#x200B;
+
+What do I do?
+
+EDIT: Thank you to everyone that chimed in, it's been a really useful learning experience!",t2_8c64t,123
+Is there a free calculator for determining the subjective tone from 2 frequency waves?,"Link to what I'm talking about
+
+http://hyperphysics.phy-astr.gsu.edu/hbase/Sound/subton.html#c1
+
+Essentially, I want to be able to put in F1, F2, ..., Fn and phases as percents for each wave and get a list of subjective tones with beat and frequency information. I've tried Google, but could only find above resource.",t2_2gvq85vd,4
+Which bass trap design should I choose if I am using 111kg/m3 rockwool?,"I'm doing an across-the-board acoustic treatment of my loft. I recently came into 20m2 (65 feet) of 10cm (4 inch) thick rockwool (from a cladding company that didn't need it any more and were selling it off cheap.) I'm sorted for ceiling cloud, reflection points, rear wall... I know what I'm doing with them.
+
+The place I'm struggling to make a decision is with my corner bass trap design - particularly the floor to ceiling corners. I have enough rockwool to stack triangles in every corner - floor to ceiling - and build a frame and cover them with fabric, but this is obviously a lot more effort than just building panels and having the straddle the corner with an air-gap.
+
+Now, the rockwool I have is pretty dense and heavy. I just weighed a 60cm x 120cm x 10cm panel, and it was 8kg. (2 feet x 4 feet x 4 inches = 17.6 pounds). An online calculator tells me that the density is therefore 111kg/m3.
+
+What is the best thing to do in terms of my corner bass traps with dense rockwool like this?
+
+&amp;#x200B;",t2_tobr72x,1
+What are some pros and cons of audio engineering?,I have to start applying to college soon and need to make my decision. I have always been between audio engineering and aviation (pilot or ATC worker). Obviously this sub is going to side with audio engineering but I want your reasonings why you love and/or hate your job. ,t2_2axe2cla,1
+News on Apogee Duet/Quartet updates?,"I own the Apogee One and it's been really great.
+
+Recently, I've been eyeing the Apogee Quartet.
+
+It seems like the perfect fit:
+ - 4 combo inputs
+ - 6 outputs (great for outboard gear)
+ - Native control via Logic Pro
+ - Nice design/footprint
+ - Made in the US
+
+...but:
+- It was released in 2012
+- It's a USB 2 interface
+- It's ~$1,500
+
+I was wondering if there are any rumblings about updates to the One/Duet/Quartet line?",t2_6w9ga,1
+Is there anyone who mixes/masters stuff in the Hip Hop genre that could help me understand a few things/answer a few questions?,"Hey everyone, looking for someone to ask a few specific questions, nothing too technical or anything like that, just looking for advice on creating a sound that I like and that I’m comfortable with, thanks in advance!
+
+When mixing and mastering, would you need more than just the vocal/beat mp3 files? As in would you need each sounds track separate? 
+
+Is there a way to master vocal audio to match an mp3 file of a beat/song whose sound I like already? 
+
+Seeing as some engineers are expensive or too expensive for me, what are some great steps to get started, assuming I have a very elementary understanding of music as a whole, but I have an immense passion for creating",t2_20wbu5xs,4
+What bass amp size to record sick tones?,"So I have a massive live rig, but I honestly feel that it is a bit impractical for recording, so I'm looking at a fender rumble 40, it has a DI out, so I'm covered that way.  For recording purposes is a smaller amp or larger amp preferred?",t2_ifhtomx,2
+Part 2! IKEA DIY Plate Reverb (it sounds good now!),"Hey audio engineers, I just posted part 2 of my DIY IKEA Plate Reverb hack series.  It's funny how a couple of small/cheap changes make a BIG improvement in the sound.  It's still cheap (less than $150 in total), but it actually sounds like a pretty decent sounding plate reverb now.  Anyway, hope you like it!
+
+[https://youtu.be/5OcRMA2FNUE](https://youtu.be/5OcRMA2FNUE)",t2_t3fwi45,240
+Confused about my fader readings and loudness,"I am mixing an album using Cubase 10 Pro.
+
+&amp;#x200B;
+
+Recently,  I have been getting a lot more into the nuts and bolts, specically DBFS, LUFS, and metering. The track in question has arrived to me from the studio quite quiet. After doing some mixing and balancing, I'm getting an integrated LUFS of -31. I noticed how quiet it was when I had to turn up my speakers to hear the rough bounce of the raw recording.
+
+&amp;#x200B;
+
+I am trying to get each track to peak at -18 on my fader's meter peak level. This is -18dbfs, which is a good target, right?
+
+My my stereo out is peaking at around -12, yet my integrated LUFS is much lower.
+
+So, a few questions.
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+1. Should I ever push the faders above 0? Is this an instance where I should?
+2. When would I increase the gain in the channel settings instead of pushing the fader? What's the difference?
+3. Does my mix have a lot of headroom? Does this mean that I can simply push the master fader when mastering to achieve a more standard LUFS?
+4. What do I do with quiet tracks? in this particular song, there are brushes on the drums which need a bit of a boost. Currently I'm bringing the other tracks down to match, but this is resulting in a quiet mix overall.  How do you deal with quiet individual tracks that are too quiet for the mix?
+
+Thanks",t2_kpmzi,1
+How do I make spoken audio sound like a recording from the 80s?,I'm working on a video project that requires audio which mimics the audio quality used in 80s television.  How would I go about doing that?  I use Audition and have been unable to find any information on how to degrade the quality.,t2_32i3t,7
+[Question] EQing Reverbs before or after it?,"What are the pros and cons to EQing reverb, going into it versus after it and what are examples of when you would do either? For guitar reverb, I put the pass filters on after the verb, but I just watched Pensado EQ into a verb on a vocal track. ",t2_cehms,4
+"Home Recording: Analyzing Your Room's Acoustics to Get Flat vs. Making Your Room Sound ""Good"" To You","Plenty of us are home recording enthusiasts. It's a hobby we enjoy so much, that of coming home, layering many instruments together on a melody or progression we've been humming all day, getting that flow going and experimenting with new sounds. We want to create our lab, hand picking every piece of gear for a specific need and using it to death, learning everything we can.
+
+The big part of research, is **how we get our room to sound**. Our monitors, of course, are affected by our room. Our recordings, whether they be vocals or some other acoustic instrument, are dependent on the acoustics of our room. But for most of us, that room is a bedroom, or an office, or some other space we need to be both liveable and aesthetically pleasing. 
+
+Lately, **I've been identifying flutter echoes or high frequency build ups in my recordings,** find where the noise is coming from and slapping 2"" Rockwool or Fiberglass on it. I'm sure many have got to this step. 
+
+Now I hear, ""hey the more high frequency reflections you eliminate, the more the low end ""modes"" will shine through. You should **get some Room Analysis Software** and Equipment to measure your room modes and rethink placement. Also, 4 inches is better than 2 inches.""
+
+That's when I had my moment. **How far do I want to go?** Am I producer/recording artist? If so... **do I really need a ""perfect room""?** Or do **I just need to tame the flavor of my room**? Maybe I should pay other people to mix and master my music who already have the ""perfect"" sounding room. 
+
+Anyway, that's the discussion I wanted to have. I think I'm just gonna slowly fix problems I identify in my process and fix them one by one. **And as far as having the perfect room, I'll leave that to the professionals.** ",t2_2osn9rfe,88
+How does stereo width work?,"For context, say you have a stereo track and you adjust the pan pots to make a 45° angle. this will bring the stereo track more into the ""centre"" of the mix. Now say you adjust the pan pots so they now make a 110° angle. This has the effect of ""widening"" the stereo field, but I don't understand how this works. I've researched mid/side processing and understand that mid is the content that is identical in both speakers whereas side is the content that 'differs,' but how does this difference result in width? And how does something spread wider into the stereo field? I hope the question makes sense, thank you all :)",t2_61b1tn,16
+building a studio in a rehearsal room,"hello everyone,
+
+i have a band and we decided to renovate our rehearsal room. before we were sharing the room with 3 other bands but we kicked them out and brought on board some producers who are willing to make this a studio and rehearsal room with us. meaning only our band equipment, monitors, pa and computer + rack + desk will be in the room.
+
+budget is low, why we won’t separate control room and studio or build a room in room construction. the idea is basically to record our band on multiple tracks while jamming or rehearsing and for the producers to have a somewhat nice sounding room while being able to record external musicians.
+
+it’s a basement room of ca 50sqm with tapestry and plasterboard walls and ceiling.
+
+since none of us has ever done this before, we don’t know what’s best for the room. has anyone experience with an opened control room like this? should we stick to the live end, dead end principle?
+
+i‘m very excited about this and would be happy to hear what you guys think!",t2_ssnpa,4
+podcasts,"Any good podcasts y'all recommend that can be heard on spotify? specifically any on hip hop, rock, indie music or mixing and recording",t2_y139dwj,3
+Anyone successfully rocking Hackintosh as their primary machine for mixing/tracking/production in a professional environment?,"Anyone successfully rocking Hackintosh as their primary machine for mixing/tracking/production  in a professional environment?
+
+I tried it once upon a time (~2013), and concluded that it was too risky.  Has it gotten any better in recent years?  Specifically, if there's anyone who trusts a Hackintosh for their day-to-day rig, I'd love to hear from you.  
+
+For instance, do you still have to keep updating .kexts and whatnot every time Apple releases an OS update?
+
+etc. 
+
+Thanks!",t2_ad4x7,35
+Has anybody used both older and more recent Oktava Mk-012s?,"I'm currently in the market for a new pair of matched SDCs, and the Oktava Mk-012s really keep catching my eye. The only ""problem"" I see is that, in older production runs, they had quality control issues that ultimately led to Michael Joly's OktavaMod company. 
+
+As Joly has gotten out of the business of modding mics, I'm curious if anybody here has experience with older 012s and a newer pair. If so, does it seem like Oktava has ironed out the QC issues they were having?",t2_cd159,1
+"Tips &amp; Tricks Tuesdays - December 11, 2018","Welcome to the weekly tips and tricks post. Offer your own or ask.  
+
+For example; How do you get a great sound for vocals? or guitars?  What maintenance do you do on a regular basis to keep your gear in shape?  What is the most successful thing you've done to get clients in the door?
+
+  Daily Threads:
+
+
+* [Monday - Gear Recommendations Sticky Thread](http://www.reddit.com/r/audioengineering/search?q=title%3Arecommendation+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Monday - Tech Support and Troubleshooting Sticky Thread](http://www.reddit.com/r/audioengineering/search?q=title%3ASupport+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Tuesday - Tips &amp; Tricks](http://www.reddit.com/r/audioengineering/search?q=title%3A%22tuesdays%22+AND+%28author%3Aautomoderator+OR+author%3Ajaymz168%29&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Friday - How did they do that?](http://www.reddit.com/r/audioengineering/search?q=title%3AFriday+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+
+
+     Upvoting is a good way of keeping this thread active and on the front page for more than one day.
+",t2_6l4z3,3
+Suggestions on Setting Pricing?,"I run a small studio out of my apartment and specialize in vocals, guitar (acoustic, electric, and bass), beat production, and mixing for digital release.
+
+How do you set pricing for your work? I find any time someone asks me for rates, I second guess my credibility or work space and wind up low balling myself. ",t2_emw5h,2
+Are there any good magazines for audio production/engineering out there?,,t2_8a5yg,82
+Console EQ Plug-ins?,"This may sound like a real dumb question but,
+
+Can someone describe to purpose of using emulated (Ex Waves API series) console EQ’s inside the box?
+
+I understand the SSL Compressors and such because of the classic sound (and warmth of course).
+
+But what about these EQ’s are useful besides gorgeous and lush cuts at certain intervals compared to the versatility of a state of the art EQ (Ex Fab Filter Q2)
+
+Please do not thrash me for an ignorant question, I just want knowledge.
+
+Thank you.",t2_2y554f,11
+"Mixing EDM, am I doing this right and how can I improve?","Hey, I'm mostly drum &amp; bass/techno producer. I wanted to ask you for advice. This is my usual mixing process when producing a track.
+
+I put limiter on the master so the max volume is -6db (I know I shouldn't but haven't found workaround yet). I rely mostly on audio levels because this works best for me. All elements in my tracks always have fixed volume levels:
+
+\- kick and snare: -10db,
+
+\- sub bass (sidechained) and mids: -14db,
+
+\- percussions: -16db,
+
+\- pads and synths: -20 to -16db,
+
+\- cymbals and shakers: -24 to -21db
+
+People often compliment my mixing and this works fairly well on deeper/calmer tunes, but when there comes a little more distortion and saturation the mix doesn't work quite right anymore. Do you know any useful tips and techniques?",t2_ma3v2,0
+Is this a thing already?,"So I thought of a program that can be made (Unless it's already a thing) where you could build a floor plan and designate a spot where the audio source is coming from and the program would calculate the room, things in the room and the walls. Then it would apply the effects to make the sound fit the setting (E.g. reverb, eq, amplify, ect.). 
+
+Say there was a narrator and you wanted him to sound like he was sitting next to or moving around you and your both in a church. With the program you could build the floor plan of the church and program the path of the voice, then the program would calculate the distance of the voice to apply any amplification, and if your subject walks around a wall the program would calculate the thickness and material of the wall and change the voice to match what it would accurately sound like. 
+
+
+Is this a thing already and if it's not, why not? ",t2_12igvs,68
+Using a single reverb/delay on all parts in a mix?,"I've toyed with this idea for a little while, but finally gone through with it; I set up my latest mixing project so that all of the individual components of the track (drums, guitar, 'body') go through a single reverb and delay auxiliary, to try and create a greater sense of cohesion and 'room' in the mix. It's hi-passed at around 4000Hz to cut out any low end rumble, and the bass doesn't go through it at all.
+
+So far I'm really pleased with the results, but are there any pitfalls I should be aware of? Does anyone else here do it this way?",t2_d5yav,9
+What are some tools that someone that can only hear on one ear can use to understand panning and directional sound?,"I've been completely stone deaf on my right ear from birth, but I've always loved music. I got into sound engineering about 12 years ago and this has always bothered me. As I have never experienced stereo, I have no idea how it actually sounds. I know the theory well enough, but the complete lack of practical experience feels limiting for me. Are there any tools (physical or on the computer) that could help me understand the feeling of stereo sound even if my head only has one ""input""?",t2_6menl,5
+"Gear Recommendation (What Should I Buy?) Thread - December 10, 2018","Welcome to our weekly Gear Recommendation Thread where you can ask /r/audioengineering for recommendations on smart purchases.
+
+Low-cost gear and purchasing recommendation requests have become common in the AE subreddit. There is also great repetition of models asked about and advised for use. This weekly post is intended to assist in centralizing and answering requests and recommendations.  If you see posts that belong here, please report them to help us get to them in a timely manner.  Thank you!
+
+Daily Threads:
+
+
+* [Monday - Gear Recommendations Sticky Thread](http://www.reddit.com/r/audioengineering/search?q=title%3Arecommendation+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Monday - Tech Support and Troubleshooting Sticky Thread](http://www.reddit.com/r/audioengineering/search?q=title%3ASupport+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Tuesday - Tips &amp; Tricks](http://www.reddit.com/r/audioengineering/search?q=title%3A%22tuesdays%22+AND+%28author%3Aautomoderator+OR+author%3Ajaymz168%29&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Friday - How did they do that?](http://www.reddit.com/r/audioengineering/search?q=title%3AFriday+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+",t2_6l4z3,18
+Recording keys with Keyscape,"Hi all. So, I'm a piano player that wants to record a few instrumental albums. I have limited working knowledge of DAWs and understanding of mixing/mastering. However, I am learning and know the basics. I was wondering your thoughts on recording MIDI from my keyboard(Yamaha DGX-660)and then using Keyscape pianos for the sounds? I did it for a simple Christmas album, that a friend produced, and he used pianos from some sort of Abbey Road suite and I like the results.
+
+What do you think would be the easiest way to accomplish this? I haven't bought the Keyscape package yet, going to be my Christmas present to myself, so will it be better to get Omnishphere or just use my Protools to record? Does Omnisphere have the option to record the audio as it's played? Thanks for your help and thoughts...
+
+edit: (If this belongs under tech support thread let me know, frankly I couldn't figure out how to post it there.)",t2_6op0jf9,0
+How do I Open and Edit .snd Files,"Iv'e tried using audacity, windows media player, vlc media player, and changing the extension name to mp3 and .wav, nothing works (I reverted it back to .snd). Whatever I use says the codec isnt supported or its corrupt. I know for a fact its not corrupt, because its part of a game sound from fmod, and the sounds in-game work fine.",t2_tlwemml,0
+"Tech Support and Troubleshooting - December 10, 2018","Welcome the /r/audioengineering Tech Support and Troubleshooting Thread.  We kindly ask that all tech support questions and basic troubleshooting questions (how do I hook up 'a' to 'b'?, headphones vs mons, etc) go here.  If you see posts that belong here, please report them to help us get to them in a timely manner.  Thank you!
+
+   Daily Threads:
+
+
+* [Monday - Gear Recommendations Sticky Thread](http://www.reddit.com/r/audioengineering/search?q=title%3Arecommendation+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Monday - Tech Support and Troubleshooting Sticky Thread](http://www.reddit.com/r/audioengineering/search?q=title%3ASupport+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Tuesday - Tips &amp; Tricks](http://www.reddit.com/r/audioengineering/search?q=title%3A%22tuesdays%22+AND+%28author%3Aautomoderator+OR+author%3Ajaymz168%29&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+* [Friday - How did they do that?](http://www.reddit.com/r/audioengineering/search?q=title%3AFriday+author%3Aautomoderator&amp;restrict_sr=on&amp;sort=new&amp;t=all)
+",t2_6l4z3,6
+Midi Drums too sensitive?,"First off I'd like to say that I am not a drummer...
+
+Whenever I record my midi drums, the snare always registers 3 or 4 extra hits after the first initial hit. I know that this is normal when the stick tries to rest on the drum, but these hits are extremely audible during playback, it just sounds like a snare roll every single beat. Is there some kind of gate I can trigger? Or is there any possible work around?",t2_oyp9n,1
+Why people don’t trust in Us?,"Today there’s a choir where I work. A friend of this guys want to record the performance on an analog outboard (for vinyl). He tells me that he do this for “passion” and He doesn’t know how to record properly, I give him my help for record.
+
+Every single second of the perfomance He try to “fix” that, “fix” this, frequency are “muddy”, “why the L meter is lower than the R meter?”.
+
+I can guarantee that the record is nice and clean, I promise u but.... why? And... why this type of people doesn’t listen to the stuff while they lost their minds on meters and other “bullshit”? Why they doesn’t trust in Us? 
+We are audio engineers, we study for this, we make a lot of exams, we produce/mix/master our shit every single day!
+
+TRUST IN US, WE’RE AUDIO ENGINEERS FOR A REASON!
+
+Sorry for bad english and for rant. I hope u can understand this type of situations my guys.
+
+Thank u
+
+Edit: The guy uses Beats headphones for listen what he record...
+
+Re-edit: He calls me today and tells me that the recording sounds amazing and He never had an experience like this with me. And this because He listen my suggestions, not his “passion” skills.",t2_171e78b0,243
+Help! In over my head,"TL;DR - Wanted a career change early in life and started doing work for a sound production company. Didn't even know what an XLR cable was, but they liked me enough to bring me to more gigs. I'm still not confident in what I'm doing though so I'm looking for any free books/courses/resources to study up with before the next gig on New Year's
+
+---
+
+Hello! I used to be majoring in Computer Science, but after working in the field for a few years already hated it. I've always loved music and been interested in getting more involved with the music industry, so one day when I saw an ad looking for help with our yearly local music fest I Joined. I had 0 knowledge about anything audio related, but I did what I was told, did it safetly and correctly, and stayed out of the way. As the amount of crew needed got smaller, I was continuously invited back.
+
+Now, I just got asked to help with our towns new year ball drop by the company's owner (the company does light and sound production for local events/festivals/concerts). I want to show him that I'm serious about getting into the industry and know my shit, but I really don't know my shit. I never studied anything related in college, and after withdrawing before getting my CS degree can't financially go back. I've tried learning independently, but without even a base level of knowledge it's difficult. 
+
+I'm eager and willing to put the time and dedication in, but just don't know where to start. I'm looking for a kind of 'audio tech for dummies' guide to get started with, or any pointers to the kind of stuff I should be looking for and what I would be expected to know. Any tips and help is greatly appreciated. Thank you everyone for reading",t2_rrwp2,0
+Anyone else think that 80s production aged much worse than even the 50s or 60s?,"Seriously, that sterile early digital sound makes some albums borderline unlistenable to me. Terrible sounding drums, bright cheesy synths, fake-ass reverb, all tracks detached from one another. Blonde on Blonde from the 60s sounds like it could have been recorded yesterday, same with The Beatles' stuff. Then Dylan and McCartney's stuff in the 80s sounds (sonically) like trash, so cold and aloof. Love some 80s music but can't stand the production - I wish The Smiths had been around ten years earlier or later! What do you think, am I way off base here?",t2_sfmnp,48
+"Does anyone have stories about running into some choosingbeggers, or someone trying to cheat you out of your hard work?",,t2_dvdm2,1
+Acoustic Guitar DI Mixing,"Heyo! Any ideas on getting an acoustic guitar that was tracked with a DI and not a mic to sound more natural and lively? No matter what I do I can't get it to sound good. I've tried a bit of a faux room sound with some reverb, but it still sounds quite harsh. I wish re-tracking were an option, but it currently isn't. :(",t2_b2tea,8
+Suggestions for DIY Mounting of Audio Interface Under My Desk (Steinberg UR44),"I have a UR44 audio interface I'd like to mount under my desk:
+
+Depth:	6.22""
+
+Width:	9.93""
+
+Height:	1.85""
+
+[https://www.sweetwater.com/store/detail/UR44--steinberg-ur44](https://www.sweetwater.com/store/detail/UR44--steinberg-ur44)
+
+Just based on my browsing, I haven't found anything that looks like a great fit for this. Any suggestions that don't involve ghetto solutions like hot glue or 3M tape? Also, if I'm posting this in the wrong subreddit, please let me know what would be a better fit.",t2_1snjpf9h,1
+Does anyone happen to have a Behringer EPA900?,,t2_2d47m33x,0
+Are top tier engineers / producers accessible?,"I’m taking a class next quarter which has a requirement that I interview a successful industry professional. I know a handful of very successful performers but I’m studying music production so I thought it would be more valuable to interview a producer or engineer. 
+
+I thought I’d throw some hail mary’s to producers and engineers from some of my favorite albums (i.e. Mitchell Froom and Tchad Blake) in hopes that they may be willing to sit for an interview or answer a few questions via e-mail.  However, I can’t seem to find any websites or contact information for any of them.  I kind of expected that they would all have websites where I could at least send an inquiry, even if it’s ignored. 
+
+Am I underestimating the celebrity status of grammy-winning engineers and producers?  Am I doing the equivalent of asking Taylor Swift for an interview? Or are they just so embedded into the industry that people who need to know how to contact them know how to do it and they don’t need to put contact info online? 
+
+Does anybody know how to find contact info for engineers and producers who have worked on successful albums?",t2_kl0ms,6
+Is there a way to listen to 2 devices through one set of headphones?,I want to play my e-drum kit along to a song. Is there some splitter cable that I could plug in to my phone to hear the song and my e drum kit to hear the drums and then plug my headphones in to the splitter so I can hear both through one set of headphones?,t2_2hy9qzor,0
+What unorthodox techniques do you like to implement into your mixing?,"I was rewatching a Virtual Riot livestream the other day (for like the 4th time) and I picked up on the fact that he turned the limiter off of the drop in one of his tracks. I believe he said it was for the hard clipping.
+
+That got me thinking, what other unusual techniques do you like to use to spice things up a bit? ",t2_16dn6l,6
+Just a tip for all of you audio engineers.,"If the elastic bands on your condenser mic shock mount get loose. 
+
+The dollar tree sells black elastic hair ties. They fit perfectly and you get 15 bands for a dollar. They have a 30 pk but they're pretty thin. The 15 pack are the same thickness as the traditional band sold at music stores.
+
+I hope I saved you some money. :) ",t2_2gh8io5a,241
