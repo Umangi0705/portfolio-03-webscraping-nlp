@@ -83,7 +83,7 @@ Train/Test: 83.0%			New Posts: 88.98%
  - **Highest-performing model is Logistic Regression, and coefficients allow us to understand the data easily**
  - **Use ensemble modeling methods like sklearn’s VotingClassifier to improve accuracy**
  - **Develop multiple models for targeted purposes**
-  - Random Forest had the lowest accuracy, but it has 91.7% specificity
+  -  Random Forest had the lowest accuracy, but it has 91.7% specificity
  - **Use models to forecast and budget for manual administrator review**
  - **Plan ahead - we can't build a predictive model without sufficient training data**
 
@@ -93,4 +93,5 @@ Subreddit 1 - 'Audio Engineering': https://reddit.com/r/audioengineering
 Subreddit 2 - 'Live Sound': https://reddit.com/r/livesound
 
 StackOverflow Feature Identification for MultiNB: https://stackoverflow.com/questions/11116697/how-to-get-most-informative-features-for-scikit-learn-classifiers
+
 Word Clouds built on https://wordclouds.com/
