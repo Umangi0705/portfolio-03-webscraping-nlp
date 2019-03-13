@@ -83,7 +83,7 @@ Train/Test: 83.0%			New Posts: 88.98%
  - **Highest-performing model is Logistic Regression, and coefficients allow us to understand the data easily**
  - **Use ensemble modeling methods like sklearn’s VotingClassifier to improve accuracy**
  - **Develop multiple models for targeted purposes**
-  -  Random Forest had the lowest accuracy, but it has 91.7% specificity
+     -  Random Forest had the lowest accuracy, but it has 91.7% specificity
  - **Use models to forecast and budget for manual administrator review**
  - **Plan ahead - we can't build a predictive model without sufficient training data**
 
